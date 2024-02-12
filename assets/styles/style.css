@@ -20,7 +20,7 @@ body {
 
 header {
     background-image: url("https://i.imgur.com/oLzbb71.jpg");
-    background-size: 101%;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     padding: 80px;
 }
